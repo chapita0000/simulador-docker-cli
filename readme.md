@@ -12,8 +12,8 @@ Simulador interactivo de consola para terminal que replica las funcionalidades y
 
 ## Promts
 
-- **Prompt 1 ** (Estructura Base y Bucle CLI)"Actúa como desarrollador senior. Escribe un script en PHP que mantenga un bucle interactivo de consola simulando 'docker'. Necesito una estructura de datos que almacene los contenedores creados con ID de 6 caracteres, Nombre, Imagen y Estado ('Up' o 'Exited'). Implementa los comandos 'run' y 'ps'."   
-- **Prompt 2 ** (Gestión de Ciclo de Vida y Validaciones)"Agrega a la estructura previa en PHP los comandos 'stop', 'rm' (validando que arroje un mensaje de error si se intenta eliminar un contenedor activo en estado 'Up') y el comando 'logs'."
+- **Prompt 1** (Estructura Base y Bucle CLI)"Actúa como desarrollador senior. Escribe un script en PHP que mantenga un bucle interactivo de consola simulando 'docker'. Necesito una estructura de datos que almacene los contenedores creados con ID de 6 caracteres, Nombre, Imagen y Estado ('Up' o 'Exited'). Implementa los comandos 'run' y 'ps'."   
+- **Prompt 2** (Gestión de Ciclo de Vida y Validaciones)"Agrega a la estructura previa en PHP los comandos 'stop', 'rm' (validando que arroje un mensaje de error si se intenta eliminar un contenedor activo en estado 'Up') y el comando 'logs'."
 
 --
 

@@ -3,7 +3,7 @@ $images = [];
 $containers = [];
 
 echo "===========================================\n";
-echo " Simulador de Docker CLI (PHP)\n";
+echo " Simulador de Docker CLI (PHP / XAMPP)\n";
 echo " Escribe 'exit' o 'quit' para salir.\n";
 echo "===========================================\n\n";
 

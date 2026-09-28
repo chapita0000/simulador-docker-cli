@@ -7,6 +7,7 @@ Simulador interactivo de consola para terminal que replica las funcionalidades y
 ## 👤 Autor
 
 - **Estudiante / Desarrollador:** Cristofer Mendoza.
+- **Estudiante / Desarrollador:** Euddy Boscan.
 
 ---
 

@@ -24,7 +24,7 @@ Simulador interactivo de consola para terminal que replica las funcionalidades y
    ```powershell
    C:\xampp\php\php.exe simulador.php
 
-##  Flujo de Trabajo y Comandos del Simulador (`docker-sim`)
+##  🛠️ Flujo de Trabajo y Comandos del Simulador (`docker-sim`)
 
 ### 1. Descargar una imagen (`docker pull`)
 ```bash
